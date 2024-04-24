@@ -326,7 +326,7 @@ Publish the website in the given URL.
 
 </html>
 ```
-###people.html
+### people.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -505,7 +505,7 @@ Publish the website in the given URL.
 </body>
 </html>
 ```
-###products.html
+### products.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -687,7 +687,7 @@ Publish the website in the given URL.
 </body>
 </html>
 ```
-###contacts.html
+### contacts.html
 ```
 <!DOCTYPE html>
 <html lang="en">
